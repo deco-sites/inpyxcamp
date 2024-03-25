@@ -15,20 +15,20 @@ import * as $$$$$$$5 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "sections": {
-    "deco-sites/start/sections/Footer.tsx": $$$$$$$0,
-    "deco-sites/start/sections/Hero.tsx": $$$$$$$1,
-    "deco-sites/start/sections/ItWorks.tsx": $$$$$$$2,
-    "deco-sites/start/sections/myHero.tsx": $$$$$$$6,
-    "deco-sites/start/sections/ParagraphList.tsx": $$$$$$$3,
-    "deco-sites/start/sections/sections/ItWorks.tsx": $$$$$$$7,
-    "deco-sites/start/sections/SimpleTextList.tsx": $$$$$$$4,
-    "deco-sites/start/sections/Theme/Theme.tsx": $$$$$$$5,
+    "deco-sites/inpyxcamp/sections/Footer.tsx": $$$$$$$0,
+    "deco-sites/inpyxcamp/sections/Hero.tsx": $$$$$$$1,
+    "deco-sites/inpyxcamp/sections/ItWorks.tsx": $$$$$$$2,
+    "deco-sites/inpyxcamp/sections/myHero.tsx": $$$$$$$6,
+    "deco-sites/inpyxcamp/sections/ParagraphList.tsx": $$$$$$$3,
+    "deco-sites/inpyxcamp/sections/sections/ItWorks.tsx": $$$$$$$7,
+    "deco-sites/inpyxcamp/sections/SimpleTextList.tsx": $$$$$$$4,
+    "deco-sites/inpyxcamp/sections/Theme/Theme.tsx": $$$$$$$5,
   },
   "apps": {
-    "deco-sites/start/apps/decohub.ts": $$$$$$$$$$$$0,
-    "deco-sites/start/apps/site.ts": $$$$$$$$$$$$1,
+    "deco-sites/inpyxcamp/apps/decohub.ts": $$$$$$$$$$$$0,
+    "deco-sites/inpyxcamp/apps/site.ts": $$$$$$$$$$$$1,
   },
-  "name": "deco-sites/start",
+  "name": "deco-sites/inpyxcamp",
   "baseUrl": import.meta.url,
 };
 
